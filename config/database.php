@@ -54,10 +54,10 @@ return [
 
 		'mysql' => [
 			'driver'    => 'mysql',
-			'host'      => env('DB_HOST', 'localhost'),
-			'database'  => env('DB_DATABASE', 'forge'),
-			'username'  => env('DB_USERNAME', 'forge'),
-			'password'  => env('DB_PASSWORD', ''),
+			'host'      => env('DB_HOST', 'ap-cdbr-azure-southeast-a.cloudapp.net'),
+			'database'  => env('DB_DATABASE', 'stiapliATAJnOwPk'),
+			'username'  => env('DB_USERNAME', 'be2b8fa21f591e'),
+			'password'  => env('DB_PASSWORD', '6e6c6e353810d7b'),
 			'charset'   => 'utf8',
 			'collation' => 'utf8_unicode_ci',
 			'prefix'    => '',
